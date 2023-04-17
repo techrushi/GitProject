@@ -5,5 +5,4 @@ public class file2 {
     }
 }
 dhfjdh
-dfjgdfhjddfhjdjk
 dfhdfjf
